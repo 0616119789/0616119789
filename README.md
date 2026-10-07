@@ -1,78 +1,57 @@
+<div align="center">
+
 # ⚔️ ILYA.exe
 
-> **Welcome to my GitHub.**
-> *Leveling up one commit at a time.*
+### 「 Student • Developer • Anime Fan 」
+
+*Leveling up one commit at a time.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=0616119789)
+
+</div>
 
 ---
 
-## 👤 About Me
+## 🌑 About Me
 
-🎓 High school student  
-💻 Learning Computer Science & Programming  
-🔐 Interested in Cybersecurity  
-🎮 Gamer + Anime Fan  
-⚡ Always trying to learn something new
+> Just a student starting his developer arc.
+
+🎓 High School Student  
+💻 Learning Programming  
+🔐 Exploring Cybersecurity  
+⚔️ Anime & Gaming  
+🚀 Building my GitHub portfolio  
+
+---
+
+## ⚡ Tech Arsenal
+
+![Git](https://img.shields.io/badge/Git-Learning-informational?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Learning-informational?logo=github)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-informational)
+![Programming](https://img.shields.io/badge/Programming-Leveling_Up-informational)
 
 ---
 
 ## 🗡️ Current Arc
 
-- 🌱 Learning **Git & GitHub**
-- 💻 Improving my **programming skills**
-- 🔐 Exploring **cybersecurity**
-- 🧠 Learning more about **computer science**
-- 🚀 Building my first projects
+🌱 Master Git & GitHub  
+💻 Improve my programming skills  
+🌐 Learn web development  
+🔐 Explore cybersecurity  
+🚀 Build real projects  
 
 ---
 
-## ⚙️ Skills Loading...
+## 🏆 Main Quests
 
-`GitHub` ███████░░░
-
-`Programming` █████░░░░░
-
-`Cybersecurity` ████░░░░░░
-
-`Web Development` ███░░░░░░░
-
----
-
-## 🏯 My Projects
-
-> **The journey has just started...**
-
-This GitHub will be where I upload my coding projects,
-experiments, and things I build as I improve.
+- [x] Create my GitHub account
+- [x] Create my first repository
+- [x] Build my profile README
+- [ ] Build my first website
+- [ ] Learn a programming language
+- [ ] Create my first major project
 
 ---
 
-## 🎯 Main Quests
-
-- [ ] Become a better programmer
-- [ ] Learn multiple programming languages
-- [ ] Build my own websites
-- [ ] Learn cybersecurity
-- [ ] Create bigger projects
-- [ ] Build an awesome GitHub portfolio
-
----
-
-## ⚡ Character Stats
-
-**Name:** Ilya  
-**Class:** Student / Developer  
-**Level:** Beginner  
-**Special Ability:** Learning  
-**Current Mission:** Become better at coding
-
----
-
-## 🌙 Quote
-
-> *“A journey of a thousand commits begins with one push.”*
-
----
-
-### ⭐ Thanks for visiting my profile
-
-**See you in the next arc. ⚔️**
+### 「 次のレベルへ • TO THE NEXT LEVEL ⚔️ 」
